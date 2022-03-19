@@ -7,15 +7,18 @@ _Github Pages_ are websites that are written in Markdown and hosted on github.co
 
 
 ## 1. Fork this Repository
-
 Fork this repo, by clicking the "Fork" button on the top right of this page.
 
 ## 2. Rename the repository 
-
 Next, go to the _Settings_ tab, and rename the repository to something you like - maybe something descriptive, let's say: `biohack`
 The URL of your website will be: `<yourgithubusername>.github.io/biohack`
 
 ## 3. Set up Github Pages
+Go to the _Settings_ tab, then click on the _Pages_ Submenu on the left. Select your _main_ branch as the source, and click `Save`. The _root_ folder is fine for now, you can change it later. After saving, you get a message saying that your site is ready.
+
+## 4. Choose a Theme
+Github Pages let you choose an internal theme, but we want to use our BioHack Theme, we need to tell Github Pages about that.
+
 
 ## 3. Customize and view your site
 
