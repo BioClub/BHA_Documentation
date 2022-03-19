@@ -1,21 +1,23 @@
-# BioHack Academy Github page template
+# BioHack Academy Documentation Site
 
-After building and using your lab, the third and most crucial step in becoming a biohacker is sharing your experience with others. For that you'll need a documentation site. Using this template, you will have that site up and running in no time in your own GitHub account!
+This is a simplified template for your own, public BioHack Academy Documentation Site.
 
-## Quick Start
+_Github Pages_ are websites that are written in Markdown and hosted on github.com. GitHub Pages are based on the Jekyll, a powerful and sometimes complex Static Site Generatator (SSG). This repository tries to make it a little bit simpler an accessible.
 
-### Step 1) Fork Jekyll Now to your User Repository
+
+
+## 1. Fork this Repository
 
 Fork this repo, by clicking the "Fork" button on the top right of this page.
 
-### Step 2) Rename the repository 
+## 2. Rename the repository 
 
-Next, go to the settings tab, and rename the repository to yourgithubusername.github.io (so remove BHA_DocumentationSite)
-It has to be exactly this, otherwise the site won't build. 
+Next, go to the _Settings_ tab, and rename the repository to something you like - maybe something descriptive, let's say: `biohack`
+The URL of your website will be: `<yourgithubusername>.github.io/biohack`
 
-Your documentation site be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 3)
+## 3. Set up Github Pages
 
-### Step 3) Customize and view your site
+## 3. Customize and view your site
 
 Configure your site name, description and url by editing the _config.yml file. 
 
